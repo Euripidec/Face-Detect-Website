@@ -50,18 +50,11 @@ Some of the standout features of the project are
 
 #### To run this project :
 
-Front end:
 1. Clone this repo
 2. Change your directory : `cd Face-Detect-Website`
 3. Run `npm install`
 4. Run `npm start`
 
-Back end:
-1. Clone the back end rep here =====> https://github.com/Euripidec/Face-Detect-Website-Backend
-2. Download node.js here =======> https://nodejs.org/en
-3. Change your directory : `cd Face-Detect-Website-Backend`
-4. Run `npm install`
-5. Run `npm start` 
 
 #### Future Updates
 
