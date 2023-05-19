@@ -1,0 +1,3 @@
+[submodule "Face-Detect-Website-Backend"]
+	path = Face-Detect-Website-Backend
+	url = https://github.com/Euripidec/Face-Detect-Website-Backend
